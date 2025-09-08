@@ -1,6 +1,6 @@
 [Front Page](../../main/README.md) | [usingGit](../usingGit) 
 
-## Introduction to Git
+## Setting Up and using Git 
 Fundamentally, software development is a collaborative activity.
 Even when you are working on your own project, you will be drawing on examples or library code written by someone else. 
 
@@ -94,4 +94,4 @@ Your tutor's username is `gallenc`.
 
 Having created your github account and created your first clone, you now want to check out the repository locally and merge any upstream changes.
 
-Detailed instructions on setting up github security, checking out code and merging upstream changes are given in  [Getting Started with Git](../usingGit/introductionToGitHub.md) 
+Detailed instructions on setting up github security, checking out code and merging upstream changes are given in  [Introduction to Github](../usingGit/introductionToGitHub.md) 
