@@ -80,7 +80,7 @@ You cannot write to the `upstream` repository but you can write to this `forked`
 
 ---
 
-You do want to make your tutor a collaborator on your project as this will allow him to track your progress 
+You may want to make your tutor a collaborator on your project as this will allow him to track your progress 
 (In future, if you are working together with another student on the same code, you may also want to make your partner a collaborator).
 
 On the repository top page, select the `Settings` tab.
@@ -90,4 +90,8 @@ Your tutor's username is `gallenc`.
 
    ![alt text](../usingGit/docs/images/addCollaborator.png "Figure addCollaborator.png")
 
+## checking out your code and merging the upstream repo
 
+Having created your github account and created your first clone, you now want to check out the repository locally and merge any upstream changes.
+
+Detailed instructions on setting up github security, checking out code and merging upstream changes are given in  [Checking out and Merging](../usingGit/introductionToGitHub.md) 
