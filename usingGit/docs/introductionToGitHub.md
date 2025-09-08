@@ -98,7 +98,7 @@ It is VERY important to ensure that, in particular 'target', directories are NOT
 
 You should also ensure that in most cases IDE specific sub folders and files are not checked in to git as this will cause confusion if you change or upgrade your IDE. Your ide will read the maven pom.xml file and recreate these folders locally if necessary.
 
-The example [.gitignore](../usingGit/.gitignore)  should be suitable for most purposes and should be copied into the top level of your git repository.
+The example [.gitignore](../../.gitignore)  should be suitable for most purposes and should be copied into the top level of your git repository.
 
 ### Syncing with the upstream repo
 Your tutor will be adding stuff to the upstream repo each week and you should be able to pull these into your local repo using the procedure described below.
