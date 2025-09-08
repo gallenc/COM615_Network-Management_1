@@ -5,21 +5,6 @@
 
 (Contents may be subject to changes)
 
-|Session      |Subject  |Details|
-| -------- | ------- | ------|
-| [Session 1](../sessions/session1) |Introduction|Course overview<br>Assessment overview|
-| [Session 2](../sessions/session2) |xxx|xxx|
-| [Session 3](../sessions/session3)|xxx|xxx|
-| [Session 4](../sessions/session4)|Consolidate|Catch up|
-| [Session 5](../sessions/session5)|xxx|xxx|
-| [Session 6](../sessions/session6)|xxx|xxx|
-| [Session 7](../sessions/session7)|xxx|xxx|
-| [Session 8](../sessions/session8)|Consolidate|Catch up|
-| [Session 9](../sessions/session9)|xxx|xxx|
-| [Session 10](../sessions/session10)|xxx|xxx|
-| [Session 11](../sessions/session11)|xxx|xxx|
-| [Session 12](../sessions/session12)|Consolidate|Catch up|
-
 <table>
    <tbody>
       <tr>
@@ -38,7 +23,7 @@
       </tr>
       <tr>
          <td>
-            <p><a href="../sessions/session1">Session 1 </a></p>
+            <p><a href="../sessions/session1">Session&nbsp;1</a></p>
          </td>
          <td>
             <p>Introduction</p>
@@ -59,7 +44,7 @@
       </tr>
       <tr>
          <td>
-            <p>2</p>
+            <p><a href="../sessions/session2">Session&nbsp;2</a></p>
          </td>
          <td>
             <p>Service Management</p>
@@ -85,7 +70,7 @@
       </tr>
       <tr>
          <td>
-            <p>3</p>
+            <p><a href="../sessions/session3">Session&nbsp;3</a></p>
          </td>
          <td>
             <p>Event &amp; Alert management (fault)</p>
@@ -116,13 +101,13 @@
       </tr>
       <tr>
          <td>
-            <p>4</p>
+            <p><a href="../sessions/session4">Session&nbsp;4</a></p>
          </td>
          <td>
             <p>Event Correlation</p>
          </td>
          <td>
-            <p>Alarm deduplication</p>
+            <p>Alarm de-duplication</p>
             <p>raise and clear alarms / events</p>
             <p>service problem / alarm - using business service monitoring</p>
          </td>
@@ -130,7 +115,7 @@
       </tr>
       <tr>
          <td>
-            <p>5</p>
+            <p><a href="../sessions/session5">Session&nbsp;5</a></p>
          </td>
          <td>
             <p>Performance and Accounting</p>
@@ -157,7 +142,7 @@
       </tr>
       <tr>
          <td>
-            <p>6</p>
+            <p><a href="../sessions/session6">Session&nbsp;6</a></p>
          </td>
          <td>
             <p>visualisation and reporting</p>
@@ -169,7 +154,7 @@
       </tr>
       <tr>
          <td>
-            <p>7</p>
+            <p><a href="../sessions/session7">Session&nbsp;7</a></p>
          </td>
          <td>
             <p>Case Study - radio management</p>
@@ -195,7 +180,7 @@
       </tr>
       <tr>
          <td>
-            <p>8</p>
+            <p><a href="../sessions/session8">Session&nbsp;8</a></p>
          </td>
          <td>
             <p>Modelling</p>
@@ -225,7 +210,7 @@
       </tr>
       <tr>
          <td>
-            <p>9</p>
+            <p><a href="../sessions/session9">Session&nbsp;9</a></p>
          </td>
          <td>
             <p>Advanced correlation</p>
@@ -241,7 +226,7 @@
       </tr>
       <tr>
          <td>
-            <p>10</p>
+            <p><a href="../sessions/session10">Session&nbsp;10</a></p>
          </td>
          <td>
             <p>Fulfilment / Configuration Management</p>
@@ -254,7 +239,7 @@
       </tr>
       <tr>
          <td>
-            <p>11</p>
+            <p><a href="../sessions/session11">Session&nbsp;11</a></p>
          </td>
          <td>
             <p>Standards / Protocols / API's</p>
