@@ -35,7 +35,7 @@ git push (a command to push your latest commits up to the remote repository)
 ---
 **IMPORTANT GitHub Security**
 * Github no longer accepts a simple username and password for accessing accounts. 
-  Please see the page on [Github Security](../usingGit/githubsecurity.md) to see how to set up certificates to access your github account from your PC account.
+  Please see the page on [Github Security](../docs/githubsecurity.md) to see how to set up certificates to access your github account from your PC account.
 ---
 
 ### Forking the tutors repository
