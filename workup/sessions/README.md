@@ -38,7 +38,7 @@
       </tr>
       <tr>
          <td>
-            <p>Session 1</p>
+            <p><a href="../sessions/session1">Session 1 </a></p>
          </td>
          <td>
             <p>Introduction</p>
