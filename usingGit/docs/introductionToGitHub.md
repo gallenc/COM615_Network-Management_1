@@ -51,7 +51,7 @@ To create a fork of this repository
 2. navigate to this repository https://github.com/gallenc/COM615_Network-Management_1/
 3. click the FORK icon
 
-![alt text](../usingGit/docs/images/ForkingARepo.png "Figure ForkingARepo.png")
+![alt text](../docs/images/ForkingARepo.png "Figure ForkingARepo.png")
 
 you can understand the process by reading these documentation examples.
 https://help.github.com/articles/fork-a-repo/
