@@ -1,72 +1,31 @@
-# COM615_Network-Management_1
-Material for Level 6 Network Management Module
-
-
 
 ![alt text](../main/docs/images/solentLogo.png "Figure solentLogo.png" )
 
-# Foundation Computing Course (COM403) 2025
+# Network Management (COM615) 2025
+
+Material for Level 6 Network Management Module
 
 ## Introduction
-Welcome to the tutorial material for Solent University Foundation Computing module (COM403) 2025.
-This module will introduce you to some of the foundations of how computers work.
-It is intended to give you a good grounding in computer architecture to prepare for the commencement of a degree in Computing.
+
+Welcome to the tutorial material for Solent UNI Network Management (COM615) 2025
+
+This module will introduce you to the fascinating and complex world of Network and systems Management.
 
 The material on this site should be sufficient for you to study on your own and in class. 
-Many of the exercises can be done on a PC but to complete all of the material, you will need access to a Raspberry PI (Pi3 or above with a wifi dongle or inbuilt wifi).
-
-For Convenience, some of the exercises use a Raspberry Pi I/O adaptor called a [Gertboard](https://www.amazon.co.uk/Gertboard-Expansion-Board-Raspberry-Assembled/dp/B009SNL3I8).
-(If this is unavailable, you can still do the exercises with a bit of ingenuity using alternative I/O adaptors such as [GeeekPi terminal extension](https://www.amazon.co.uk/GeeekPi-Raspberry-Terminal-Breakout-Expansion/dp/B08GKQMC72/).
+Many of the exercises can be done on a PC with Docker Desktop installed and sufficient memory available.
 
 You can see the contents menu for the module under [sessions](../main/sessions) 
 
-## Getting Started
-Fundamentally, software development is a collaborative activity.
-Even when you are working on your own project, you will be drawing on examples or library code written by someone else. 
-
-Three of the most important disciplines when working on software projects individually or in teams are 
-* Documentation, 
-* Project Management, and 
-* Version Control.
-
-We want to introduce you to all these practices as part of the Foundation Computing module.
-
-Git is a version control system invented by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) to help track changes to code during the development of the Linux Kernel.
-
-Git is very powerful and now very widely adopted in the computer industry, supplanting tools which were previously widely used such as [Subversion](https://subversion.apache.org/) and [CVS](https://www.nongnu.org/cvs/). 
-
-In this module you will learn some basic commands and practices to use Git effectively.
-
-[Github.com](https://github.com/) (now owned by Microsoft) provides a comprehensive set of free online tools for collaboratively managing software projects.
-GitHub hosts online version control, issue management and project management tools. 
-
-You will use Github to document your work, project manage your tasks and store your code for this module.
-
-To use any of these tools, you will need to set up a personal Github account. 
-Your Github account will be used by you for all the work you do during your university career.
-It will become like a living CV of the projects you have worked on.
-
-We will cover setting up Git in [Session 1](../main/sessions/session1).
 
 ## Using this Github material
 
-Having set up your own Github account, you will then `fork` this module repository which just means creating a clone (or copy) of this repository in your own Github account.
+With the wide adoption of Software Defined Networking and network configuration tools such as Ansible, learning to use version control systems such as GIT are an important skill for anyone involved in systems administration or network management. 
 
-Forking the upstream repository into your account will allow you to maintain your own record of work based upon the tutorial material.
+This repository is set up to allow your tutor to continuously update material which you can use explore various exercises.
 
----
-**NOTE**
+The intention is that you `fork` this repository into your own github account where you can copy and make changes to the examples as you progress.
 
-* Your personal work in your repository will be part of the assessment.
-
----
-
-Forking the upstream repository will allow your tutor to continue to work on their `upstream` copy of the material while you can work separately on your own copy.
-
-If any changes are `committed` upstream by the tutor, you can `merge` those changes into your local repository and use them in your own work. 
-You can also use this as a method for getting the example code onto your raspberry pi.
-
-We will cover the merging process in [Session 2](../main/sessions/session2).
+Details on using Git and merging upstream work are provided in [Setting Up and using Git](../main/usingGit).
 
 To make merging easier, this repository is organised in three separate sections.
 
@@ -87,16 +46,14 @@ This is where you should create and save your own practice projects.
 Your tutor will NEVER overlay new material here so you can commit any of your own work into this folder.
 When you `commit` your changes and `push` them to Github, your work in [myPracticeCourseWork](../main/myPracticeCourseWork) will be a permanent record of what you have been working on.
 
-You can also update your [Personal Learning Record](../main/myPracticeCourseWork/personal_learning_record/personal_learning_record.md) in this folder.
-A template Personal Learning Record is provided to get you started.
-
 [workup](../main/workup) is your Tutors work in progress folder.
 
 This is where your tutor creates and updates material before publication each week. 
 You are welcome to look at stuff here but mostly it is not complete and won't work (yet).
 Don't make your own changes here.
 
-See [Session 1](../main/sessions/session1) for more instructions on getting started with git and forking this repository.
+
+See [Setting Up and using Git](../main/usingGit) for more instructions on getting started with git and forking this repository.
 
 
  
