@@ -37,7 +37,6 @@ To make merging easier, this repository is organised in three separate sections.
 
 This is where the tutorials and examples for each week will be created and updated each week.
 PLEASE do not change material here as it will be updated each week and you will have difficulty merging any upstream changes with your own work.
-
 Instead COPY each session's material into your own [myPracticeCourseWork](../main/myPracticeCourseWork) folder and use and modify it from there.
 
 [myPracticeCourseWork](../main/myPracticeCourseWork) Is your private working folder.
