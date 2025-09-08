@@ -90,7 +90,7 @@ Your tutor's username is `gallenc`.
 
    ![alt text](../usingGit/docs/images/addCollaborator.png "Figure addCollaborator.png")
 
-## checking out your code and merging the upstream repo
+## Checking out your code and merging the upstream repo
 
 Having created your github account and created your first clone, you now want to check out the repository locally and merge any upstream changes.
 
