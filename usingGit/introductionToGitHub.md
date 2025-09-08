@@ -1,5 +1,5 @@
 
-## Getting Started with GIT
+## Introduction to Github
 
 This will teach you a little bit about git and how to fork a copy of this repository into your own github account.
 
