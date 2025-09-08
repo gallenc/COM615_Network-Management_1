@@ -1,4 +1,4 @@
-[Main Menu](../../sessions/README.md) | [session1](../session1/) 
+[Front Page](../../main/README.md) | [usingGit](../usingGit) 
 
 ## Getting Started with Git
 Fundamentally, software development is a collaborative activity.
@@ -40,7 +40,7 @@ You can also use this as a method for getting any example code into virtual mach
 If you already have a github account, you can use it for this work.
 If you do not already have a personal account you will first need to create a github account at [https://github.com](https://github.com)
 
-   ![alt text](../session1/docs/images/githubFrontPage.png "Figure githubFrontPage.png")
+   ![alt text](../usingGit/docs/images/githubFrontPage.png "Figure githubFrontPage.png")
    
 This is your personal account which will live on after your university career.
 Many employers look at personal github accounts of potential employees to understand what projects they have worked on and their level of skill.
