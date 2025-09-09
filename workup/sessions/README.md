@@ -9,24 +9,24 @@
    <tbody>
       <tr>
          <td>
-            <li>Session</li>
+            <p>Session</p>
          </td>
          <td>
-            <li>Title</li>
+            <p>Title</p>
          </td>
          <td>
-            <li>Contents</li>
+            <p>Contents</p>
          </td>
          <td>
-            <li>Practical / Demo</li>
+            <p>Practical / Demo</p>
          </td>
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session1">Session&nbsp;1</a></li>
+            <p><a href="../sessions/session1">Session&nbsp;1</a></p>
          </td>
          <td>
-            <li>Introduction</li>
+            <p>Introduction</p>
          </td>
          <td>
             <li>The big picture</li>
@@ -44,10 +44,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session2">Session&nbsp;2</a></li>
+            <p><a href="../sessions/session2">Session&nbsp;2</a></p>
          </td>
          <td>
-            <li>Service Management</li>
+            <p>Service Management</p>
          </td>
          <td>
             <li>what is a service</li>
@@ -70,10 +70,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session3">Session&nbsp;3</a></li>
+            <p><a href="../sessions/session3">Session&nbsp;3</a></p>
          </td>
          <td>
-            <li>Event &amp; Alert management (fault)</li>
+            <p>Event &amp; Alert management (fault)</p>
          </td>
          <td>
             <li>Messages</li>
@@ -101,10 +101,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session4">Session&nbsp;4</a></li>
+            <p><a href="../sessions/session4">Session&nbsp;4</a></p>
          </td>
          <td>
-            <li>Event Correlation</li>
+            <p>Event Correlation</p>
          </td>
          <td>
             <li>Alarm de-duplication</li>
@@ -115,10 +115,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session5">Session&nbsp;5</a></li>
+            <p><a href="../sessions/session5">Session&nbsp;5</a></p>
          </td>
          <td>
-            <li>Performance and Accounting</li>
+            <p>Performance and Accounting</p>
          </td>
          <td>
             <li>Polling</li>
@@ -142,10 +142,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session6">Session&nbsp;6</a></li>
+            <p><a href="../sessions/session6">Session&nbsp;6</a></p>
          </td>
          <td>
-            <li>visualisation and reporting</li>
+            <p>visualisation and reporting</p>
          </td>
          <td></td>
          <td>
@@ -154,10 +154,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session7">Session&nbsp;7</a></li>
+            <p><a href="../sessions/session7">Session&nbsp;7</a></p>
          </td>
          <td>
-            <li>Case Study - radio management</li>
+            <p>Case Study - radio management</p>
          </td>
          <td>
             <li>case study - radio management</li>
@@ -180,10 +180,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session8">Session&nbsp;8</a></li>
+            <p><a href="../sessions/session8">Session&nbsp;8</a></p>
          </td>
          <td>
-            <li>Modelling</li>
+            <p>Modelling</p>
          </td>
          <td>
             <li>network models</li>
@@ -197,7 +197,7 @@
       <tr>
          <td></td>
          <td>
-            <li>Modelling</li>
+            <p>Modelling</p>
          </td>
          <td>
             <li>modelling in kuwaiba</li>
@@ -210,10 +210,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session9">Session&nbsp;9</a></li>
+            <p><a href="../sessions/session9">Session&nbsp;9</a></p>
          </td>
          <td>
-            <li>Advanced correlation</li>
+            <p>Advanced correlation</p>
          </td>
          <td>
             <li>case study GPON Network</li>
@@ -226,10 +226,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session10">Session&nbsp;10</a></li>
+            <p><a href="../sessions/session10">Session&nbsp;10</a></p>
          </td>
          <td>
-            <li>Fulfilment / Configuration Management</li>
+            <p>Fulfilment / Configuration Management</p>
          </td>
          <td>
             <li>Ansible</li>
@@ -239,10 +239,10 @@
       </tr>
       <tr>
          <td>
-            <li><a href="../sessions/session11">Session&nbsp;11</a></li>
+            <p><a href="../sessions/session11">Session&nbsp;11</a></p>
          </td>
          <td>
-            <li>Standards / Protocols / API's</li>
+            <p>Standards / Protocols / API's</p>
          </td>
          <td>
             <li>TM Forum api's</li>
