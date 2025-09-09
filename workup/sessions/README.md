@@ -1,7 +1,7 @@
 
-# Cloud Computing Course (COM614) 2025
+# Network Management Module (COM615) 2025
 
-## Course Sessions
+## Module Sessions
 
 (Contents may be subject to changes)
 
