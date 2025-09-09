@@ -9,126 +9,85 @@
    <tbody>
       <tr>
          <td>
-            <p>Session</p>
+            <li>Session</li>
          </td>
          <td>
-            <p>Title</p>
+            <li>Title</li>
          </td>
          <td>
-            <p>Contents</p>
+            <li>Contents</li>
          </td>
          <td>
-            <p>Practical / Demo</p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <p><a href="../sessions/session1">Session&nbsp;1</a></p>
-         </td>
-         <td>
-            <p>Introduction</p>
-         </td>
-         <td>
-            <p>The big picture</p>
-            <p>history</p>
-            <p>what we will cover</p>
-            <p>FCAPS</p>
-            <p>SLA's</p>
-            <p>OSS solutions</p>
-         </td>
-         <td>
-            <p>OpenNMS / Grafana / Kuwaiba</p>
-            <p>demonstration solution</p>
-            <p>simple OpenNMS - tutorial</p>
+            <li>Practical / Demo</li>
          </td>
       </tr>
       <tr>
          <td>
-            <p><a href="../sessions/session2">Session&nbsp;2</a></p>
+            <li><a href="../sessions/session1">Session&nbsp;1</a></li>
          </td>
          <td>
-            <p>Service Management</p>
+            <li>Introduction</li>
          </td>
          <td>
-            <p>what is a service</p>
-            <p>SLA</p>
-            <p>KPI's</p>
-            <p>Services contain services</p>
-            <p>what is a service</p>
-            <p>key performance indicators</p>
-            <p>SLA's alarm / Service problem / trouble ticket</p>
+            <li>The big picture</li>
+            <li>history</li>
+            <li>what we will cover</li>
+            <li>FCAPS</li>
+            <li>SLA's</li>
+            <li>OSS solutions</li>
          </td>
          <td>
-            <p>simple service management</p>
-            <p>PING</p>
-            <p>HTTPs</p>
-            <p>polling known services</p>
-            <p>testing a web site etc</p>
-            <p>polling from locations</p>
-            <p>synthetic transactions</p>
+            <li>OpenNMS / Grafana / Kuwaiba</li>
+            <li>demonstration solution</li>
+            <li>simple OpenNMS - tutorial</li>
          </td>
       </tr>
       <tr>
          <td>
-            <p><a href="../sessions/session3">Session&nbsp;3</a></p>
+            <li><a href="../sessions/session2">Session&nbsp;2</a></li>
          </td>
          <td>
-            <p>Event &amp; Alert management (fault)</p>
+            <li>Service Management</li>
          </td>
          <td>
-            <p>Messages</p>
-            <p>SNMP trap</p>
-            <p>SYSLOG</p>
-            <p>protobuf</p>
-            <p>MQTT</p>
+            <li>what is a service</li>
+            <li>SLA</li>
+            <li>KPI's</li>
+            <li>Services contain services</li>
+            <li>what is a service</li>
+            <li>key performance indicators</li>
+            <li>SLA's alarm / Service problem / trouble ticket</li>
          </td>
          <td>
-            <p>Examples</p>
-            <p>Netsnmp Mibbrowser</p>
-            <p>ONMS SNMP trap</p>
-            <p>ONMS Syslog</p>
-            <p>ONMS MQTT</p>
-         </td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-         <td>
-            <p>SYSLOG - logstash elk kibana</p>
-            <p>streaming telemetry - protobuf</p>
+            <li>simple service management</li>
+            <li>PING</li>
+            <li>HTTPs</li>
+            <li>polling known services</li>
+            <li>testing a web site etc</li>
+            <li>polling from locations</li>
+            <li>synthetic transactions</li>
          </td>
       </tr>
       <tr>
          <td>
-            <p><a href="../sessions/session4">Session&nbsp;4</a></p>
+            <li><a href="../sessions/session3">Session&nbsp;3</a></li>
          </td>
          <td>
-            <p>Event Correlation</p>
+            <li>Event &amp; Alert management (fault)</li>
          </td>
          <td>
-            <p>Alarm de-duplication</p>
-            <p>raise and clear alarms / events</p>
-            <p>service problem / alarm - using business service monitoring</p>
-         </td>
-         <td></td>
-      </tr>
-      <tr>
-         <td>
-            <p><a href="../sessions/session5">Session&nbsp;5</a></p>
+            <li>Messages</li>
+            <li>SNMP trap</li>
+            <li>SYSLOG</li>
+            <li>protobuf</li>
+            <li>MQTT</li>
          </td>
          <td>
-            <p>Performance and Accounting</p>
-         </td>
-         <td>
-            <p>Polling</p>
-            <p>performance SNMP</p>
-            <p>thresholds</p>
-         </td>
-         <td>
-            <p>ONMS performance SNMP</p>
-            <p>ONMS performance - scrape Json etc</p>
-            <p>Grafana</p>
+            <li>Examples</li>
+            <li>Netsnmp Mibbrowser</li>
+            <li>ONMS SNMP trap</li>
+            <li>ONMS Syslog</li>
+            <li>ONMS MQTT</li>
          </td>
       </tr>
       <tr>
@@ -136,120 +95,161 @@
          <td></td>
          <td></td>
          <td>
-            <p>Prometheus performance</p>
-            <p>promsnmp</p>
+            <li>SYSLOG - logstash elk kibana</li>
+            <li>streaming telemetry - protobuf</li>
          </td>
       </tr>
       <tr>
          <td>
-            <p><a href="../sessions/session6">Session&nbsp;6</a></p>
+            <li><a href="../sessions/session4">Session&nbsp;4</a></li>
          </td>
          <td>
-            <p>visualisation and reporting</p>
-         </td>
-         <td></td>
-         <td>
-            <p>Grafana</p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <p><a href="../sessions/session7">Session&nbsp;7</a></p>
+            <li>Event Correlation</li>
          </td>
          <td>
-            <p>Case Study - radio management</p>
-         </td>
-         <td>
-            <p>case study - radio management</p>
-            <p>how approached</p>
-            <p>requirement - delivery of solution</p>
-         </td>
-         <td>
-            <p>demo radio management</p>
-            <p>wireless performance model</p>
-            <p>snmpsim - model</p>
-         </td>
-      </tr>
-      <tr>
-         <td></td>
-         <td></td>
-         <td></td>
-         <td>
-            <p>MQTT model</p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <p><a href="../sessions/session8">Session&nbsp;8</a></p>
-         </td>
-         <td>
-            <p>Modelling</p>
-         </td>
-         <td>
-            <p>network models</p>
-            <p>equipment models</p>
-            <p>service models</p>
-         </td>
-         <td>
-            <p>kuwaiba modelling simple network and service</p>
-         </td>
-      </tr>
-      <tr>
-         <td></td>
-         <td>
-            <p>Modelling</p>
-         </td>
-         <td>
-            <p>modelling in kuwaiba</p>
-            <p>export to ONMS</p>
-            <p>digital twin</p>
-         </td>
-         <td>
-            <p>kuwaiba modelling a radio network</p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <p><a href="../sessions/session9">Session&nbsp;9</a></p>
-         </td>
-         <td>
-            <p>Advanced correlation</p>
-         </td>
-         <td>
-            <p>case study GPON Network</p>
-            <p>temporal correlation vs topological corelation</p>
-         </td>
-         <td>
-            <p>modelling a gpon network</p>
-            <p>gpon alarm corellation</p>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <p><a href="../sessions/session10">Session&nbsp;10</a></p>
-         </td>
-         <td>
-            <p>Fulfilment / Configuration Management</p>
-         </td>
-         <td>
-            <p>Ansible</p>
-            <p>ONMS config?</p>
+            <li>Alarm de-duplication</li>
+            <li>raise and clear alarms / events</li>
+            <li>service problem / alarm - using business service monitoring</li>
          </td>
          <td></td>
       </tr>
       <tr>
          <td>
-            <p><a href="../sessions/session11">Session&nbsp;11</a></p>
+            <li><a href="../sessions/session5">Session&nbsp;5</a></li>
          </td>
          <td>
-            <p>Standards / Protocols / API's</p>
+            <li>Performance and Accounting</li>
          </td>
          <td>
-            <p>TM Forum api's</p>
-            <p>and other standards etc</p>
-            <p>Trouble ticket</p>
-            <p>Service Problem Management</p>
-            <p>Inventory</p>
+            <li>Polling</li>
+            <li>performance SNMP</li>
+            <li>thresholds</li>
+         </td>
+         <td>
+            <li>ONMS performance SNMP</li>
+            <li>ONMS performance - scrape Json etc</li>
+            <li>Grafana</li>
+         </td>
+      </tr>
+      <tr>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td>
+            <li>Prometheus performance</li>
+            <li>promsnmp</li>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <li><a href="../sessions/session6">Session&nbsp;6</a></li>
+         </td>
+         <td>
+            <li>visualisation and reporting</li>
+         </td>
+         <td></td>
+         <td>
+            <li>Grafana</li>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <li><a href="../sessions/session7">Session&nbsp;7</a></li>
+         </td>
+         <td>
+            <li>Case Study - radio management</li>
+         </td>
+         <td>
+            <li>case study - radio management</li>
+            <li>how approached</li>
+            <li>requirement - delivery of solution</li>
+         </td>
+         <td>
+            <li>demo radio management</li>
+            <li>wireless performance model</li>
+            <li>snmpsim - model</li>
+         </td>
+      </tr>
+      <tr>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td>
+            <li>MQTT model</li>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <li><a href="../sessions/session8">Session&nbsp;8</a></li>
+         </td>
+         <td>
+            <li>Modelling</li>
+         </td>
+         <td>
+            <li>network models</li>
+            <li>equipment models</li>
+            <li>service models</li>
+         </td>
+         <td>
+            <li>kuwaiba modelling simple network and service</li>
+         </td>
+      </tr>
+      <tr>
+         <td></td>
+         <td>
+            <li>Modelling</li>
+         </td>
+         <td>
+            <li>modelling in kuwaiba</li>
+            <li>export to ONMS</li>
+            <li>digital twin</li>
+         </td>
+         <td>
+            <li>kuwaiba modelling a radio network</li>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <li><a href="../sessions/session9">Session&nbsp;9</a></li>
+         </td>
+         <td>
+            <li>Advanced correlation</li>
+         </td>
+         <td>
+            <li>case study GPON Network</li>
+            <li>temporal correlation vs topological corelation</li>
+         </td>
+         <td>
+            <li>modelling a gpon network</li>
+            <li>gpon alarm corellation</li>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <li><a href="../sessions/session10">Session&nbsp;10</a></li>
+         </td>
+         <td>
+            <li>Fulfilment / Configuration Management</li>
+         </td>
+         <td>
+            <li>Ansible</li>
+            <li>ONMS config?</li>
+         </td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>
+            <li><a href="../sessions/session11">Session&nbsp;11</a></li>
+         </td>
+         <td>
+            <li>Standards / Protocols / API's</li>
+         </td>
+         <td>
+            <li>TM Forum api's</li>
+            <li>and other standards etc</li>
+            <li>Trouble ticket</li>
+            <li>Service Problem Management</li>
+            <li>Inventory</li>
          </td>
          <td></td>
       </tr>
