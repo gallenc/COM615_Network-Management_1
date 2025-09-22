@@ -41,6 +41,8 @@ A network protocol is  set of standardised rules and guidelines that enable devi
 Usually a Network Management Protocol will define an 
 * Information Model which tells us what the management information means and a 
 * Transport Protocol which defines how information about changes to the model are transmitted between management systems
+* 
+Often in IoT systems, the shared model is called a 'Digital Twin' of the real world object it represents.
 
 | Layer      | Protocol      | Transport                  | Model Definition              | Notes |
 |:-----------|:--------------|:---------------------------|:------------------------------|:------|
@@ -57,5 +59,4 @@ Usually a Network Management Protocol will define an
 |            | OSI CMIP/CMIS  | Abstract Syntax Notation One (ASN.1) | ITU.802            |       |
 |            | TINA-C        | CORBA                           |  ITU.802                 |       |
 |            | TM Forum APIs   | ReST and Kafka           |                               |       |
-|            |               |                            |                               |       |
 |            |               |                            |                               |       |
