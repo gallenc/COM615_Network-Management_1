@@ -64,3 +64,20 @@ Often in IoT systems, the shared model is called a 'Digital Twin' of the real wo
 |            | TINA-C        | CORBA                           |  ITU.802                 |       |
 |            | TM Forum APIs   | ReST and Kafka           |                               |       |
 |            |               |                            |                               |       |
+
+## Information Models
+
+TM Forum SID
+
+DMTF CIM
+
+## Process Models
+
+TM Forum Extended Telecoms Operations Map eTOM
+
+![alt text](../docs/images/TMForumETOM.png "Figure TMGorumETOM.png")
+
+
+IT Infrastructure Library
+
+![alt text](../docs/images/itil.png "Figure TMGorumETOM.png")
