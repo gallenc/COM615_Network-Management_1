@@ -43,13 +43,13 @@ This model is much simpler and more realistic than the TAM, when trying to const
 |            |Perf Mgt   |  Performance Management Systems e.g. OpenNMS / Prometheus     |
 |            |Self Monitor  | e.g. JMX    |
 |            |               |                   |
-| Inventory  |CMDB   |                                                                                |
-|            |PNI / LNI              | PNI refers to Physical Network Inventory (PNI) and Logical Network Inventory (LNI)  |
+| Inventory  |CMDB   |  Configuration Management Data Base includes IPAM (IP Address Management) / version control of configurations /Asset Management   |
+|            |PNI / LNI   | PNI refers to Physical Network Inventory (PNI) and Logical Network Inventory (LNI)  |
 |            |OSP / GIS | OSP (Outside Plant) referring to the physical network assets and GIS (Geographic Information System) |
 |            |               |                   |
 | BSS        |CRM   | Customer Relationship Management e.g. Salesforce.com |
 |            |Billing   |  e.g. SAP           |
-|            |Order Management  |                                                       |
+|            |Order Management  |  May be part of the finance/billing systems           |
 |            |Field Services   |  May be controlled through a trouble Ticket System     |
 |            |               |                   |
 |Data Visualisation |Reports   |     |
