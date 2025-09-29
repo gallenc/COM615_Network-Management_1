@@ -37,8 +37,30 @@ This model is much simpler and more realistic than the TAM, when trying to const
 
 ![alt text](../docs/images/OSS_Sandpit_Prototype_Model.png "Figure OSS_Sandpit_Prototype_Model.png")
 
-
-
-
-
+| category   | definition | Notes |
+|:-----------|:-----------|:------|
+| Real Time  |Alarm Mgt   | Alarm and Event Management Systems e.g. OpenNMS / HP TeMIP   |
+|            |Perf Mgt   |  Performance Management Systems e.g. OpenNMS / Prometheus     |
+|            |Self Monitor  | e.g. JMX    |
+|            |               |                   |
+| Inventory  |CMDB   |                                                                                |
+|            |PNI / LNI              | PNI refers to Physical Network Inventory (PNI) and Logical Network Inventory (LNI)  |
+|            |OSP / GIS | OSP (Outside Plant) referring to the physical network assets and GIS (Geographic Information System) |
+|            |               |                   |
+| BSS        |CRM   | Customer Relationship Management e.g. Salesforce.com |
+|            |Billing   |  e.g. SAP           |
+|            |Order Management  |                                                       |
+|            |Field Services   |  May be controlled through a trouble Ticket System     |
+|            |               |                   |
+|Data Visualisation |Reports   |     |
+|            |Search | Ability to search the data stores by time/ device/service etc. Example: Elastic Search in ELK stack    |
+|            |Dashboards  |  Ability to create per user function or per customer collections of visual widgets e.g. Grafana / Kibana  |
+|            |Schedulling | Ability ot schedule generation of reports and posting results to users |
+|            |Analytics   | Ability to apply complex mathematical functions on data. e.g. Hadoop   |
+|            |               |                   |
+| Automation |Task Management   |  Ability to automate scheduling of tasks in a process including human and automated elements |
+|            |Orchestration   | Automated deployment of resources e.g. Kubernetes / Ansible  |
+|            |Feedback Loops  | Ability to use policies to control how data changes the infrastructure e.g. scale up / down based on load. |
+|            | AI / ML |Artificial Intelligence / Machine Learning. e.g learning what is 'normal' and alerting on abnormal behaviour |
+|            |               |                   |
 
