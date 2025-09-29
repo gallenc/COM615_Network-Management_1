@@ -67,17 +67,19 @@ Often in IoT systems, the shared model is called a 'Digital Twin' of the real wo
 
 ## Information Models
 
-TM Forum SID
+We will look at this in more detail later.
 
-DMTF CIM
+[TM Forum Information Model (SID)](https://www.tmforum.org/oda/information-framework-sid/)
+
+[DMTF Common Information Model (CIM)](https://www.dmtf.org/standards/cim)
 
 ## Process Models
 
-TM Forum Extended Telecoms Operations Map eTOM
+[TM Forum Process FRamework (Extended Telecoms Operations Map eTOM)](https://www.tmforum.org/oda/process-framework-etom/)
 
 ![alt text](../docs/images/TMForumETOM.png "Figure TMGorumETOM.png")
 
 
-IT Infrastructure Library
+[IT Infrastructure Library](https://en.wikipedia.org/wiki/ITIL)  ITIL (previously and also known as Information Technology Infrastructure Library) is a framework with a set of practices (previously processes) for IT activities such as IT service management (ITSM) and IT asset management (ITAM) that focus on aligning IT services with the needs of the business
 
-![alt text](../docs/images/itil.png "Figure TMGorumETOM.png")
+![alt text](../docs/images/itil.png "Figure itil.png")
