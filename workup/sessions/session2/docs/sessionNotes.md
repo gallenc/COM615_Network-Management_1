@@ -10,7 +10,7 @@ You can download all information related to this standard if you set up a univer
 
 [GB921 Business Process Framework (eTOM)](https://www.tmforum.org/resources/suite/gb921-business-process-framework-etom-suite-v25-0/)
 
-You can also browse an [online version of the eTOM](online version http://www.ilsa.kz/etom/main/diagramac379ad6e0054204b29009c3d82ff997.htm)
+You can also browse an [online version of the eTOM](http://www.ilsa.kz/etom/main/diagramac379ad6e0054204b29009c3d82ff997.htm)
 
 ## Telecoms Application Framework
 
