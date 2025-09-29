@@ -29,6 +29,16 @@ https://www.tmforum.org/resources/suite-standard/gb929-application-framework-tam
 
 ## Passionate about OSS
 
+Ryan Jeffery, an Australian, has created a web site which discusses Operational Support Systems called [Passionate About OSS](https://passionateaboutoss.com/)
+
+He has been working on a simpler model to help explain OSS systems called the [OSS Sandpit](https://passionateaboutoss.com/building-a-personal-oss-sandpit/)
+
+This model is much simpler and more realistic than the TAM, when trying to construct a system for the average network.
+
+![alt text](../docs/images/OSS_Sandpit_Prototype_Model.png "Figure OSS_Sandpit_Prototype_Model.png")
+
+
+
 
 
 
