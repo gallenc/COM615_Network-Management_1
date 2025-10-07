@@ -39,7 +39,7 @@
          <td>
             <li>OpenNMS / Grafana / Kuwaiba</li>
             <li>demonstration solution</li>
-            <li>simple OpenNMS - tutorial</li>
+            <li><a href="../sessions/session1">OpenNMS&nbsp;-&nbsp;tutorial&nbsp;Session&nbsp;1</a></li>
          </td>
       </tr>
       <tr>
