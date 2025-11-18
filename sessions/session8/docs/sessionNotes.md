@@ -4,7 +4,7 @@
 
 ## Introductory slides
 
-[Introduction To Modelling](../../session1/docs/COM615-ModellingIntro1.1.pdf)
+[Introduction To Modelling](../../session8/docs/COM615-ModellingIntro1.1.pdf)
 
 
 ## Information Models
