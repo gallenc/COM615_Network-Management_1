@@ -258,7 +258,7 @@
             <p><a href="../sessions/session12">Session&nbsp;12</a></p>
          </td>
          <td>
-            <p>IoT amd MQTT</p>
+            <p>IoT and MQTT</p>
          </td>
          <td>
             <li>IoT</li>
