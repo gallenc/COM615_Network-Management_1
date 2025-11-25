@@ -175,7 +175,7 @@
          <td></td>
          <td></td>
          <td>
-            <li>MQTT model</li>
+            <li></li>
          </td>
       </tr>
       <tr>
@@ -250,6 +250,20 @@
             <li>Trouble ticket</li>
             <li>Service Problem Management</li>
             <li>Inventory</li>
+         </td>
+         <td></td>
+      </tr>
+            <tr>
+         <td>
+            <p><a href="../sessions/session12">Session&nbsp;12</a></p>
+         </td>
+         <td>
+            <p>IoT amd MQTT</p>
+         </td>
+         <td>
+            <li>IoT</li>
+            <li>MQTT</li>
+            <li>OpenNMS MQTT plugin</li>
          </td>
          <td></td>
       </tr>
