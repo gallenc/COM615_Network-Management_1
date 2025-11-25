@@ -9,7 +9,7 @@
 
 ## Resources
 
-[OpenNMS MQTT PLugin]https://github.com/opennms-forge/opennms-mqtt-plugin/)
+[OpenNMS MQTT PLugin](https://github.com/opennms-forge/opennms-mqtt-plugin/)
 
 [OpenNMS Conference OUCE MQTT Video](https://www.youtube.com/watch?v=mKhJYpM27Fo)
 
