@@ -53,7 +53,7 @@ Often in IoT systems, the shared model is called a 'Digital Twin' of the real wo
 | Element    | TL1           | ASCII                      | Proprietrary / Telcordia      |       |
 |            | SYSLOG        | ASCII                      | Varies by vendor              |       |
 |            | CLI           | ASCII                      | Varies by vendor              |       |
-|            | SNMP          | Binar                      | MIB Abstract Syntax Notation One (ASN.1)   |       |
+|            | SNMP          | Binary                     | MIB Abstract Syntax Notation One (ASN.1)   |       |
 |            | gRPC          | Protobuf (Binary)          | Protobuf definition           |       |
 |            | ReST          | HTTP                       | Json proprietary              |       |
 |            | Microsoft WS-MAN | Http                    | Microsoft version of CIM      |       |
