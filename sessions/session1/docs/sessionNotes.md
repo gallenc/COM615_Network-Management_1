@@ -77,6 +77,8 @@ We will look at this in more detail later.
 
 [TM Forum Process FRamework (Extended Telecoms Operations Map eTOM)](https://www.tmforum.org/oda/process-framework-etom/)
 
+[Clickable Etom model](https://www.tmforum.org/MODA/index.htm)
+
 ![alt text](../docs/images/TMForumETOM.png "Figure TMGorumETOM.png")
 
 
